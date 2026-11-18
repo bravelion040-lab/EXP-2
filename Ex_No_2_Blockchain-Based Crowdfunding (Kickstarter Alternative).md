@@ -76,4 +76,9 @@ Teaches decentralized fundraising.
 
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
+# Output
+<img width="1534" height="798" alt="WhatsApp Image 2026-11-18 at 9 18 32 AM" src="https://github.com/user-attachments/assets/f0adbfe7-dc9b-483b-98ea-7a72855de86f" />
+<img width="1600" height="832" alt="WhatsApp Image 2026-11-18 at 9 18 40 AM" src="https://github.com/user-attachments/assets/ae507181-08f4-4897-82ce-d12ecc8b8c31" />
+
 # RESULT: 
+Thus a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met has been created.
